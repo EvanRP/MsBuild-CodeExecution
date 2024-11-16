@@ -1,6 +1,6 @@
 Overview:
 
-The MsBuild-CodeExecution repository demonstrates how arbitrary code execution can be achieved using msbuild.exe, C#, and XML. It is a learning resource for understanding how MSBuild tasks can be manipulated for executing code in an unintended manner, highlighting potential security risks.
+MsBuild-CodeExecution demonstrates how arbitrary code execution can be achieved using msbuild.exe, C#, and XML. It is a learning resource for understanding how MSBuild tasks can be manipulated for executing code in an unintended manner, highlighting potential security risks.
 
 Features:
 
