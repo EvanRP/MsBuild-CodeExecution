@@ -3,8 +3,8 @@ The MsBuild-CodeExecution repository demonstrates how arbitrary code execution c
 
 Features:
 
-    Explores MSBuild’s use of XML for task execution.
-    Demonstrates a method for code execution via MSBuild.
+   - Explores MSBuild’s use of XML for task execution.
+   - Demonstrates a method for code execution via MSBuild.
   
 reference:
 https://learn.microsoft.com/en-us/visualstudio/msbuild/walkthrough-creating-an-inline-task?view=vs-2022
